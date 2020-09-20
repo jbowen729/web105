@@ -1,0 +1,39 @@
+body{
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.container{
+    widows: 80%;
+    margin: 20px auto;
+    border:3px solid navy;
+    overflow: auto;
+    padding: 15px;
+}
+
+h1{
+    color:lightcoral;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+}
+
+nav a{
+    text-decoration: none;
+    background-color:lightsalmon;
+    border:2px solid black;
+    border: radius 10px;
+    color:navy;
+    padding:5px 10px;
+    margin-left:20px
+}
+
+nav a:hover{
+    color:lightsalmon;
+    background-color: navy;
+}
